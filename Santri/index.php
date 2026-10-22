@@ -84,7 +84,7 @@ include 'header.php';
 <div class="modal fade" id="modalHapus" tabindex="-1">
   <div class="modal-dialog">
     <form method="post" action="hapus.php" class="modal-content">
-      <div class="modal-header">
+      <div class="container modal-header">
         <h5 class="modal-title">Konfirmasi Hapus</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
       </div>
