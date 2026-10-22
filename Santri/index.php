@@ -80,6 +80,7 @@ include 'header.php';
     </table>
   </div>
 </div>
+<!-- Ini bagian Utama -->
 <div class="modal fade" id="modalHapus" tabindex="-1">
   <div class="modal-dialog">
     <form method="post" action="hapus.php" class="modal-content">
